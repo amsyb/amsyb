@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💡 Background<br>Committed to developing web interfaces that prioritize usability and inclusivity.<br><br>📚 Currently Exploring<br>Advanced JavaScript concepts and best practices.<br><br>📫Let's Connect</p>
+<p align="left">💡 Background<br>Committed to developing web interfaces that prioritize usability and inclusivity.<br><br>📚 Currently Exploring<br>Advanced JavaScript concepts and best practices.</p>
 
 ###
 
