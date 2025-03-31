@@ -6,12 +6,19 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">💡 Background<br>Committed to developing web interfaces that prioritize usability and inclusivity.<br><br>📚 Currently Exploring<br>Advanced JavaScript concepts and best practices.</p>
+<p align="left">📚 Completed a software engineering bootcamp where I learned full-stack development, with a focus on front-end technologies.<br><br>🧠 Strong foundation in iterative design processes, Agile development, and accessibility.<br><br>🧩 Experienced in cross-functional collaboration, ensuring designs and code align with business objectives.</p>
 
+###
+
+<h2 align="left">Currently Exploring</h2>
+
+###
+
+<p align="left">🕹️ Strengthening my understanding of data structures and algorithms.<br><br>🌍 Enhancing my expertise in accessibility and inclusive design.<br><br>🤝 Open to mentorship, collaboration, and learning opportunities in front-end development.</p>
 
 ###
 
