@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software engineer from Toronto, ON</p>
+<p align="left">Based in Toronto, ON</p>
 
 ###
 
