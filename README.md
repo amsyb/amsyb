@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Completed a software engineering bootcamp where I learned full-stack development, with a focus on front-end technologies.<br><br>🧠 Strong foundation in iterative design processes, Agile development, and accessibility.<br><br>🧩 Experienced in cross-functional collaboration, ensuring designs and code align with business objectives.</p>
+<p align="left">🎓 Bachelor of Science, Software Engineering graduate with a foundation in full-stack development, specializing in front-end technologies.<br><br>🧠 Strong foundation in iterative design processes, Agile development, and accessibility.<br><br>🧩 Experienced in cross-functional collaboration, ensuring designs and code align with business objectives.</p>
 
 ###
 
@@ -27,6 +27,7 @@
 ###
 
 <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
