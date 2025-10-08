@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Based in Toronto, ON</p>
+<p align="left">Based in San Francisco, CA</p>
 
 ###
 
