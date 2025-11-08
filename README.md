@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Bachelor of Science, Software Engineering graduate with a foundation in full-stack development, specializing in front-end technologies.<br><br>🧠 Strong foundation in iterative design processes, Agile development, and accessibility.<br><br>🧩 Experienced in cross-functional collaboration, ensuring designs and code align with business objectives.</p>
+<p align="left">🎓 Bachelor of Science, Software Engineering graduate with a foundation in full-stack development, and three years experience in product design.<br><br>🧠 Strong foundation in iterative design processes, Agile development, and accessibility.<br><br>🧩 Experienced in cross-functional collaboration, ensuring designs and code align with business objectives.</p>
 
 ###
 
